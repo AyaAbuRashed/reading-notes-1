@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## What is a *Growth Mindset?*
+When you have a growth mindset it means that you **believe** you are capable of doing and learning anything once you put the time and effort to it, and to know that talant and inteligence are not enough to reach your goals.
+it is also described as the love of learning and developing.
 
-You can use the [editor on GitHub](https://github.com/Raghad-Abdelghani/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Things I should follow to keep myself in the growth mindset:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. I always should embrace challenges instead of ~~Avoiding~~ them.
+2. I have to learn from criticim instead of ~~ignoring~~ it.
+3. I shall be inspired by successful people instead of viewing them as a ~~threat~~.
 
-### Markdown
+By Following these steps I am sure i will ***Acheive*** all my goals and higher.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Hello There 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Raghad-Abdelghani/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My name is Raghad Abdelghani, I am a pharmacist on the road to be a programmer, looking forward to solving world health problems using the technology I will learn and develop in the future.
+This is a [link](https://github.com/Raghad-Abdelghani) to my Github account
