@@ -1,6 +1,6 @@
 # 102 course:lecture2
 ## Outcomes:
-Terminologies:
+## Terminologies:
 
 **GUI**:Graphical User Interface (The normal windows screens)
 
@@ -10,16 +10,16 @@ Terminologies:
 
 Commands that we use in Terminal:
 
-1.pwd :it stands for Print Working Directory
+1. pwd :it stands for Print Working Directory
 
-2.LS :List (it lists the iteams that are inside the folder except the hidden ones)
+2. LS :List (it lists the iteams that are inside the folder except the hidden ones)
 
-3.LS -LA :Lists all items inside the folder even the hidden ones
+3. LS -LA :Lists all items inside the folder even the hidden ones
 
-4.mkdir foldername : Makes a new directory
+4. mkdir foldername : Makes a new directory
 
-5.cd folder name :changes the directory
+5. cd folder name :changes the directory
 
-6.cd .. :moves you back to the parent folder
+6. cd .. :moves you back to the parent folder
 
-7.touch index.html :creates file
+7. touch index.html :creates file
