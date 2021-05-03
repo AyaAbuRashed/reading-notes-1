@@ -7,5 +7,5 @@ Here is a Table of The reading notes i made so far:
 
 | Assignment | Link |
 | ----------- | ----------- |
-| Read01 | [read01link](https://replit.com/@RaghadALBoriny/reading-notes#read01.md) |
-| read02 | [read02link](https://replit.com/@RaghadALBoriny/reading-notes#read02.md) |
+| Read01 | [read01link](https://github.com/Raghad-Abdelghani/reading-notes/blob/main/read01.md) |
+| read02 | [read02link](https://github.com/Raghad-Abdelghani/reading-notes/blob/main/read02.md) |
